@@ -37,6 +37,10 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+<p align="center">
+  <img width="1280" height="752" alt="Screenshot from 2025-11-07 03-50-59" src="https://github.com/user-attachments/assets/e2e62b2d-e9a1-4961-be0a-c7bfe4a9fe4d" />
+</p>
+
 ---
 
 ## Controls
