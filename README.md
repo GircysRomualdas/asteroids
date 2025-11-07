@@ -1,6 +1,6 @@
 # Asteroids
 
-Asteroids is a Python game built with Pygame. It lets you pilot a spaceship, dodge asteroids, and shoot them.
+Asteroids is a game built with Python and Pygame. It lets you pilot a spaceship, dodge asteroids, and shoot them.
 
 This is the starter code used in Boot.dev's [Build Asteroids using Python and Pygame](https://www.boot.dev/courses/build-asteroids-python) course.
 
