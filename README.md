@@ -14,7 +14,7 @@ This is the starter code used in Boot.dev's [Build Asteroids using Python and Py
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 2. Create virtual environment and activate.
 ```bash
