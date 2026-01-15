@@ -8,7 +8,8 @@ This is the starter code used in Boot.dev's [Build Asteroids using Python and Py
 
 ## Requirements
 
-- Python 3
+- Python 3.10+
+- uv (if not installed: `pip install uv`)
 
 ---
 
@@ -16,15 +17,9 @@ This is the starter code used in Boot.dev's [Build Asteroids using Python and Py
 
 1. Clone the repository.
 
-2. Create virtual environment and activate.
+2. Sync the environment.
 ```bash
-python3 -m venv env
-source env/bin/activate
-```
-
-3. Install dependencies
-```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ---
@@ -34,7 +29,7 @@ pip install -r requirements.txt
 ### Run game
 
 ```bash
-python3 main.py
+uv run main.py
 ```
 
 <p align="center">
